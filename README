@@ -1,0 +1,8 @@
+Simple NYT spelling bee solver
+
+Libraries:
+pip install selenium
+pip install pyautogui
+
+Description:
+Selenium web driver and autogui use a dictionary of words to solve the New York Times Spelling Bee
